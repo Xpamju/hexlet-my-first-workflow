@@ -1,0 +1,1 @@
+![example workflow](https://github.com/Xpamju/hexlet-my-first-workflow/blob/master/.github/workflows/hello.yml/pic.png?event=push)
